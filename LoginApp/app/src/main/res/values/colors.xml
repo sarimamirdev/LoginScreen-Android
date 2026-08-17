@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#12121B</color>
+    <color name="card_dark">#1C1C2B</color>
+    <color name="field_bg">#242438</color>
+    <color name="purple_primary">#8B6EF5</color>
+    <color name="purple_light">#B89CFA</color>
+    <color name="gold_accent">#F5C542</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_grey">#A9A9BC</color>
+    <color name="text_hint">#6E6E85</color>
+    <color name="error_red">#FF6B6B</color>
+</resources>
